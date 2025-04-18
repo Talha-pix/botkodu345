@@ -1,0 +1,9 @@
+0 cat
+1 tiger
+2 leopard
+3 lion
+4 panther
+5 cheetah
+6 puma
+7 lynx
+8 oselo
